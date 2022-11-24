@@ -55,8 +55,8 @@ console.log(typeof BMI["data1"]["mark"]);
 console.log(markHigherBMI);
 console.log(markHigherBMI2);
 
+*/
+
 console.log(`Multi line
 string 
 is here`);
-
-*/
